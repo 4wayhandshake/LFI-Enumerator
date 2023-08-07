@@ -5,7 +5,7 @@ When looking for a tool that would try path traversals using a variety of differ
 
 It's not pretty, but it seems to work just fine.
 
-
+<br/>
 
 ## Usage
 
@@ -17,7 +17,7 @@ Usage: ./lfi-scan.sh <target> <min> <max> <cookies> <wordlist> <filter_size> <ex
 
 If desired, add entries to `lfi-list.txt` to try additional  path traversal tricks or encodings.
 
-
+<br/>
 
 ## Example
 
@@ -52,11 +52,12 @@ Then just run the script. For example:
 
 ![screenshot](screenshot.gif)
 
-
+<br/>
 
 ---
 
 Enjoy
 
 :handshake::handshake::handshake::handshake:
+
 @4wayhandshake
