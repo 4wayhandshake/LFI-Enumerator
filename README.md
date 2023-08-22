@@ -36,7 +36,7 @@ Then just run the script. For example:
 
 > The above command would...
 >
-> - Target an LFI rooted at `http://target.htb/?page=`
+> - Target an LFI rooted at `http://target.htb/?page=` 
 > - Have a minimum of 0 backwards traversals
 > - Have a maximum of 3 backwards traversals
 > - Use the cookies stored in `$COOKIES`
